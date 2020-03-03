@@ -5,9 +5,9 @@ version: 0.2
 
 env:
   variables:
-    REGION: "value"
-    CLUSTER_NAME: "value"
-    PROJECT_NAME: "value"
+    REGION: "us_west_2"
+    CLUSTER_NAME: "jtianTester"
+    PROJECT_NAME: "jtianTester"
   #parameter-store:
      # key: "value"
      # key: "value"
