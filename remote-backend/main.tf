@@ -1,6 +1,6 @@
 provider "aws" {
   version = "~> 2.2"
-  region  = "us-west-2"
+  region  = "udefault_region"
 }
 
 # EKS remote state

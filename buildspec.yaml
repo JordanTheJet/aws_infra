@@ -5,7 +5,7 @@ version: 0.2
 
 env:
   variables:
-    REGION: "us_west_2"
+    REGION: "us-west-2"
     CLUSTER_NAME: "jtianTester"
     PROJECT_NAME: "jtianTester"
   #parameter-store:
